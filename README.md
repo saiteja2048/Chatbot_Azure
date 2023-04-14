@@ -12,4 +12,6 @@ Azure Bot Service provides an integrated development environment for bot buildin
    ->Test your knowledge bases and make changes if needed<br/>
    ->create chatbot service and obtain its webchat code<br/>
    ->Embed the obtained code in your webchat <br/>
-   ->Thats it your chatbot is perfectly made
+   ->Thats it your chatbot is perfectly made<br/>
+->>However the QNA maker has been removed in updated Azure services and all the bot services have moved to Azure cognitive services,<br/>
+   But still the procedure is almost same in updated Azure services too.
